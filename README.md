@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nevemlaci
-- 👀 I’m interested in programming and video games.
+- 👀 I’m interested in programming and maths.
 - 🌱 I’m currently learning C++ in high school.
 - 📫 How to reach me? My Discord is: Nevemlaci#7346
 
