@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nevemlaci
 - 👀 I’m interested in programming and maths.
-- 🌱 I’m currently studying Computer Engineering at Budapest University of Technology and Economics
+- 🌱 I’m currently studying Computer Engineering Bsc. at Budapest University of Technology and Economics
 - 📫 Contact me on my Discord: 'nevemlaci'
 
 <!---
