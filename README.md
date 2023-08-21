@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nevemlaci
 - 👀 I’m interested in programming and maths.
-- 🌱 I’m currently learning C++ in high school.
-- 📫 How to reach me? My Discord is: Nevemlaci#7346
+- 🌱 I’m currently studying Computer Engineering at Budapest University of Technology and Economics
+- 📫 Contact me on my Discord: 'nevemlaci'
 
 <!---
 nevemlaci/nevemlaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
