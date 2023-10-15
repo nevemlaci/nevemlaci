@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Engineering Bsc. at Budapest University of Technology and Economics
 - 📫 Contact me on my Discord: 'nevemlaci' or in an email: nevemlaci@proton.me
 
-[![Anurag's GitHub stats](github-readme-stats-two-navy-28.vercel.app/api/top-langs?username=nevemlaci)](https://github.com/nevemlaci/github-readme-stats-fork)
+[![Nevemlaci's GitHub stats](github-readme-stats-two-navy-28.vercel.app/api/top-langs?username=nevemlaci)](https://github.com/nevemlaci/github-readme-stats-fork)
 
 <!---
 nevemlaci/nevemlaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
