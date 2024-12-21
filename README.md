@@ -6,6 +6,20 @@ I’m currently studying Computer Engineering at Budapest University of Technolo
 I mainly develop simple libraries in C++, but I also had a small venture into C# trough the Unity API and MAUI.
 My first few projects were written in C++ using the C library SDL2, and to this day I use the library for some projects.
 
+----
+<div >
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
+		</tr>
+	</table>
+</div>
+
+----
 
 ## Contact
 📫 Contact me on my Discord server: [invite link](https://discord.gg/4SwvkJa2) or in an email: nevemlaci@proton.me
