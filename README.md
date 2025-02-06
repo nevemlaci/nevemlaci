@@ -25,7 +25,7 @@ I also have experience with JavaFX and Java Swing.
 ## Contact
 📫 Contact me on my Discord server: [invite link](https://discord.gg/4SwvkJa2) or in an email: nevemlaci@proton.me
 ## 
-[![Nevemlaci's GitHub stats](https://github-readme-stats-two-navy-28.vercel.app/api/top-langs?username=nevemlaci&show_icons=true&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nevemlaci's GitHub stats](https://github-readme-stats-two-navy-28.vercel.app/api/top-langs?username=nevemlaci&show_icons=true&theme=dark&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=cpp_jegyzet)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 nevemlaci/nevemlaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
