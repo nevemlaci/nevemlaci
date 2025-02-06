@@ -5,6 +5,7 @@ I’m currently studying Computer Engineering at Budapest University of Technolo
 
 I mainly develop simple libraries in C++, but I also had a small venture into C# trough the Unity API and MAUI.
 My first few projects were written in C++ using the C library SDL2, and to this day I use the library for some projects.
+I also have experience with JavaFX and Java Swing.
 
 ----
 <div >
