@@ -20,6 +20,10 @@ I also have experience with JavaFX and Java Swing.
 	</table>
 </div>
 
+#### My open source contributions so far:
+* [Monifactory](https://github.com/ThePansmith/Monifactory) (Java and JavaScript)
+* [Together C/C++ Wiki Articles](https://github.com/nevemlaci/wiki-articles) (Articles about C++)
+
 ----
 
 ## Contact
