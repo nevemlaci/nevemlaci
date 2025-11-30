@@ -3,6 +3,8 @@
 My name is László Lipódi, or Laci for short.<br> 
 I’m currently studying Computer Engineering at Budapest University of Technology and Economics. 
 
+I am employed as a Software Developer intern.
+
 ----
 ## I have expirience with the following techonologies:
 
