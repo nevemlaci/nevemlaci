@@ -6,7 +6,7 @@ I’m currently studying Computer Engineering at Budapest University of Technolo
 I am employed as a Software Developer intern.
 
 ----
-## I have expirience with the following techonologies:
+## I have experience with the following techonologies:
 
 Day to day projects, my main techology stack: <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
