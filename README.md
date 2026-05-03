@@ -37,10 +37,6 @@ Versioning, CI/CD technologies: <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### My open source contributions so far:
-* [Monifactory](https://github.com/ThePansmith/Monifactory) (Java and JavaScript)
-* [Together C/C++ Wiki Articles](https://github.com/TCCPP/wiki) (Articles about C++)
-
 ----
 
 ## Contact
